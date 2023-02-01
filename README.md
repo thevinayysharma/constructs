@@ -1,2 +1,9 @@
 # constructs
-code constructs &amp; info to build fast.
+
+> code constructs + info to build fast (personal use)
+
+
+- [Design](./design/README.md)
+- [Web](./web/)
+- ML
+- [Codez]() 
