@@ -4,6 +4,6 @@
 
 
 - [Design](./design/README.md)
-- [Web](./web/)
+- [Web](./web/README.md)
 - ML
-- [Codez]() 
+- [Codez](./codez/README.md) 
