@@ -1,0 +1,6 @@
+### Codez
+
+---
+
+- Peformant Code
+- patterns
