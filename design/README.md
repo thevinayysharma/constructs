@@ -2,4 +2,10 @@
 
 ---
 
+Tools:
+- [okso](https://okso.app/)
+- [Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools)
+- [design-resources-for-developers- brad](https://github.com/bradtraversy/design-resources-for-developers)
+
+Techniques:
 - [Refactoring-UI](https://visitas.ru/howtodo/Steve_Schoger_Adam_Wathan_Refactoring_UI.pdf)
